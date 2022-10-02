@@ -10,11 +10,9 @@ window.onload = function init() {
 
     var vertices = [
         vec2(-0.5,0.5),
+        vec2(-0.5,-0.5),
         vec2(0.5,0.5),
         vec2(0.5,-0.5),
-        vec2(0.5,-0.5),
-        vec2(-0.5,-0.5),
-        vec2(-0.5,0.5),
     ];
 
     var colors = [
@@ -47,6 +45,6 @@ window.onload = function init() {
     gl.enableVertexAttribArray(vColor);
 
     gl.clear(gl.COLOR_BUFFER_BIT);
-    gl.drawArrays(gl.TRIANGLES,0,6);
+    gl.drawArrays(gl.TRIANGLE_FAN,0,4);
 };
 
