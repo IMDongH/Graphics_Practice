@@ -45,6 +45,6 @@ window.onload = function init() {
     gl.enableVertexAttribArray(vColor);
 
     gl.clear(gl.COLOR_BUFFER_BIT);
-    gl.drawArrays(gl.TRIANGLE_FAN,0,4);
+    gl.drawArrays(gl.TRIANGLE_STRIP,0,4);
 };
 
