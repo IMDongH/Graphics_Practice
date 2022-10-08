@@ -1,0 +1,11 @@
+Model Information:
+* title:	VINTAGE KEYBOARD
+* source:	https://sketchfab.com/3d-models/vintage-keyboard-05442f97fade4f29aa6d639595b6793b
+* author:	Diego Clemente (https://sketchfab.com/diegoclemente2001)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "VINTAGE KEYBOARD" (https://sketchfab.com/3d-models/vintage-keyboard-05442f97fade4f29aa6d639595b6793b) by Diego Clemente (https://sketchfab.com/diegoclemente2001) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
