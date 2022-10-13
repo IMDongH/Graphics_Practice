@@ -18,7 +18,8 @@
 
   function init() {
 
-    const MODEL_PATH = 'https://s3-us-west-2.amazonaws.com/s.cdpn.io/1376484/stacy_lightweight.glb';
+    const MODEL_PATH = "../fall2.glb";
+    
     const canvas = document.querySelector('#c');
     const backgroundColor = 0xf1f1f1;
 
@@ -44,7 +45,8 @@
     camera.position.x = 0;
     camera.position.y = -3;
 
-    let stacy_txt = new THREE.TextureLoader().load('https://s3-us-west-2.amazonaws.com/s.cdpn.io/1376484/stacy.jpg');
+    let stacy_txt = new THREE.TextureLoader().load('../textures/SubTool-0-1751427-NMap.jpeg');
+    
     stacy_txt.flipY = false;
 
     const stacy_mtl = new THREE.MeshPhongMaterial({

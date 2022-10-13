@@ -58,7 +58,7 @@ body {
     margin: 0 1.5rem 0.5rem 0;
 }
 
-.frame__links a:focus,
+/* .frame__links a:focus, */
 .frame__links a:hover {
     text-decoration: underline;
 }
